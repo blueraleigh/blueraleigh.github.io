@@ -51,27 +51,27 @@ Preprints
 
 Publications
 ------------
-Rabosky D.L., von May R., **Grundler M.C.**, Davis Rabosky A.R. 2019. The Western Amazonian Richness Gradient for Squamate Reptiles: Are There Really Fewer Snakes and Lizards in Southwestern Amazonian Lowlands? Diversity. 11:199.
+Rabosky D.L., von May R., **Grundler M.C.**, Davis Rabosky A.R. 2019. The Western Amazonian Richness Gradient for Squamate Reptiles: Are There Really Fewer Snakes and Lizards in Southwestern Amazonian Lowlands? Diversity. 11:199. [HTML](https://doi.org/10.3390/d11100199)
 
-Biggi E., Larson J., Rabosky D., von May R., Isabel Diaz M., **Grundler M.**, Sánchez-Paredes C., Tomasinelli F., Santa-Cruz R., Alarcón C. 2019. Ecological interactions between arthropods and small vertebrates in a lowland Amazon rainforest. Amphibian & Reptile Conservation 13(1): 65-77.
+Biggi E., Larson J., Rabosky D., von May R., Isabel Diaz M., **Grundler M.**, Sánchez-Paredes C., Tomasinelli F., Santa-Cruz R., Alarcón C. 2019. Ecological interactions between arthropods and small vertebrates in a lowland Amazon rainforest. Amphibian & Reptile Conservation 13(1): 65-77. [PDF](http://amphibian-reptile-conservation.org/pdfs/Volume/Vol_13_no_2/ARC_13_2_[General_Section]_304-322_e215.pdf)
 
 von May R., **Grundler M.** 2018. OXYBELIS FULGIDUS (Green Vine Snake): DIET. Herpetological Review 49(4): 758-759.
 
 **Grundler M.C.**, Fitzpatrick S.W. 2018. CHIRONIUS SEPTENTRIONALIS (South American Sipo): DIET. Herpetological Review 49(3): 544-544.
 
-Rabosky D.L., **Grundler M.**, Anderson C., Title P., Shi J.J., Brown J.W., Huang H., Larson J.G. 2014. BAMMtools: an R package for the analysis of evolutionary dynamics on phylogenetic trees. Methods in Ecology and Evolution. 5:701–707.
+Rabosky D.L., **Grundler M.**, Anderson C., Title P., Shi J.J., Brown J.W., Huang H., Larson J.G. 2014. BAMMtools: an R package for the analysis of evolutionary dynamics on phylogenetic trees. Methods in Ecology and Evolution. 5:701–707. [HTML](https://doi.org/10.1111/2041-210X.12199)
 
-**Grundler M.C.**, Rabosky D.L. 2014. Trophic divergence despite morphological convergence in a continental radiation of snakes. Proceedings of the Royal Society B: Biological Sciences. 281:20140413.
+**Grundler M.C.**, Rabosky D.L. 2014. Trophic divergence despite morphological convergence in a continental radiation of snakes. Proceedings of the Royal Society B: Biological Sciences. 281:20140413. [HTML](https://doi.org/10.1098/rspb.2014.0413)
 
-Rabosky D.L., Donnellan S.C., **Grundler M.**, Lovette I.J. 2014. Analysis and visualization of complex macroevolutionary dynamics: an example from Australian scincid lizards. Systematic biology. 63:610–627.
+Rabosky D.L., Donnellan S.C., **Grundler M.**, Lovette I.J. 2014. Analysis and visualization of complex macroevolutionary dynamics: an example from Australian scincid lizards. Systematic biology. 63:610–627. [HTML](https://doi.org/10.1093/sysbio/syu025)
 
 Paknia O., **Grundler M.**, Pfeiffer M. 2013. Species Richness and Niche Differentiation of Darkling Beetles (Coleoptera: Tenebrionidae) in Mongolian Steppe Ecosystems. Steppe Ecosystems: Biological Diversity, Management and Restoration. Nova Science Publishers. p. 47–72.
 
-**Grundler M.C.**, Toledo L.F., Parra-Olea G., Haddad C.F., Giasson L.O., Sawaya R.J., Prado C.P., Araujo O.G., Zara F.J., Centeno F.C. 2012. Interaction between breeding habitat and elevation affects prevalence but not infection intensity of Batrachochytrium dendrobatidis in Brazilian anuran assemblages. Diseases of aquatic organisms. 97:173–184.
+**Grundler M.C.**, Toledo L.F., Parra-Olea G., Haddad C.F., Giasson L.O., Sawaya R.J., Prado C.P., Araujo O.G., Zara F.J., Centeno F.C. 2012. Interaction between breeding habitat and elevation affects prevalence but not infection intensity of Batrachochytrium dendrobatidis in Brazilian anuran assemblages. Diseases of aquatic organisms. 97:173–184. [HTML](https://doi.org/10.3354/dao02413)
 
-Rittmeyer E.N., Allison A., **Grundler M.C.**, Thompson D.K., Austin C.C. 2012. Ecological guild evolution and the discovery of the world’s smallest vertebrate. PLoS One. 7:e29797.
+Rittmeyer E.N., Allison A., **Grundler M.C.**, Thompson D.K., Austin C.C. 2012. Ecological guild evolution and the discovery of the world’s smallest vertebrate. PLoS One. 7:e29797. [HTML](https://doi.org/10.1371/journal.pone.0029797)
 
-Robertson J.M., Hoversten K., **Grundler M.**, Poorten T.J., Hews D.K., Rosenblum E.B. 2011. Colonization of novel White Sands habitat is associated with changes in lizard anti‐predator behaviour. Biological Journal of the Linnean Society. 103:657–667.
+Robertson J.M., Hoversten K., **Grundler M.**, Poorten T.J., Hews D.K., Rosenblum E.B. 2011. Colonization of novel White Sands habitat is associated with changes in lizard anti‐predator behaviour. Biological Journal of the Linnean Society. 103:657–667. [HTML](https://doi.org/10.1111/j.1095-8312.2011.01644.x)
 
 
 Conference Presentations
