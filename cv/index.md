@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Michael C. Grundler
+style: vitae
 ---
 
 Michael C. Grundler
