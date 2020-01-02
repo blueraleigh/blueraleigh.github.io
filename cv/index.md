@@ -104,7 +104,7 @@ Teaching Experience
 - Vertebrates: Structure, Function, and Evolution. 2009. Cornell University. Undergraduate Teaching Assistant.
 
 
-Workshop Experience
+Workshop Teaching
 -------------------
 - Comparative Phylogenetic Methods in R. 2019. Joint Meeting of Ichthyologists and Herpetologists. Instructor for module on models of discrete character evolution. [Link to materials](https://github.com/blueraleigh/jmih2019).
 
