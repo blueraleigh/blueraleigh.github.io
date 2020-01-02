@@ -47,7 +47,7 @@ Grant Awards
 
 Preprints
 ---------
-**Grundler M.C.**, Rabosky D.L. 2019. Complex ecological phenotypes on phylogenetic trees: a hidden Markov model for comparative analysis of multivariate count data. [bioRxiv:640334](https://www.biorxiv.org/content/10.1101/640334v2).
+**Grundler M.C.**, Rabosky D.L. 2019. Complex ecological phenotypes on phylogenetic trees: a Markov process model for comparative analysis of multivariate count data. [bioRxiv:640334](https://www.biorxiv.org/content/10.1101/640334v2).
 
 Publications
 ------------
