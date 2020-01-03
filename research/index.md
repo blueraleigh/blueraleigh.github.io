@@ -24,7 +24,7 @@ Transition rates in continuous-time Markov chain (CTMC) models of character
 evolution are usually estimated by marginalizing over all histories of character
 evolution that could possibly explain the data. An advantage of this approach is
 that the resulting parameter estimates are not conditional on any particular
-(uncertain) history of change. A disadvantage of this approach is that the resulting parameter
+(uncertain) history of change. A disadvantage of this approach is that the resulting estimates
 are not necessarily close to the truth. After all, history only happened once
 and the average of all outcomes could be quite far from the single historical
 outcome that actually occurred. In this work I explored a different approach to
