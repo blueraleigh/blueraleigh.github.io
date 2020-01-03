@@ -6,7 +6,7 @@ style: main
 
 ## Macroevolution of discrete traits with rate heterogeneity
 
-The ability to accommodate among-linage phenotypic rate variation
+The ability to accommodate among-lineage phenotypic rate variation
 adds an important element of realism to stochastic models of trait evolution. In this
 work I modified the [BAMM](http://bamm-project.org) code-base to work with a
 binary state character.
@@ -77,12 +77,7 @@ The model itself is implemented in the macroevolution R package [here](https://g
 Compared to other squamate reptiles (i.e., lizards), snakes have highly specialized
 feeding habits. Among the world’s snakes there is nonetheless wide variation in
 both the kinds of food and the number of food types recorded in dietary samples.
-Although there is general consensus that this diversity of modern feeding types
-arose from ecologically restricted lizard-like forebears, there have been few
-quantitative studies investigating phylogenetic patterns in the trophic ecological
-transformations that took place during snake evolution, particularly with regard
-to patterns of specialization and generalization and rates of change. I maintain
-a global database of snake feeding observations (currently more than 30,000 observations
+I maintain a global database of snake feeding observations (currently more than 30,000 observations
 from over 1200 snake species!) to address macroevolutionary patterns
 in the evolution of snake diets. The majority of observations originate from
 previously published observations, but I also use museum specimens to generate
