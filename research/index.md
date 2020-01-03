@@ -8,12 +8,12 @@ style: main
 
 The ability to accommodate among-linage phenotypic rate variation
 adds an important element of realism to stochastic models of trait evolution. In this
-work I modified the [BAMM](http://bamm-project.org) code base to work with a
+work I modified the [BAMM](http://bamm-project.org) code-base to work with a
 binary state character.
 Interestingly, this model for among-lineage rate variation fails when transition
 rates are not constrained to be identical. The intuition for this failure is that
 each rate-shift event can allow one rate to become arbitrarily large and the
-other arbitrarily small, thereby guaranteeing the origin and persistence of a derived
+other to become arbitrarily small, thereby guaranteeing the origin and persistence of a derived
 character state. The rate-shift mechanism itself introduces another way to observe
 an event of character state change!
 Read more [here](https://blueraleigh.github.io/research).
