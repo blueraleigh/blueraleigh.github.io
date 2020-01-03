@@ -58,10 +58,18 @@ $$ L = \sum_{\hat{X}}{L_{\hat{X}}} $$. Because $$ L_{\hat{X}} $$  is just a prod
 of independent lineage transition probabilities we have,
 
 $$
-\frac{\delta L}{\delta \epsilon} = \sum_{\hat{X}}{L_{\hat{X}} b(\hat{X})}
+\frac{\partial L}{\partial \epsilon} = \sum_{\hat{X}}{L_{\hat{X}} b(\hat{X})}
 $$
 
 $$
-b(\hat{X}) = \sum_{e = (u, v)}{\frac{\frac{\delta}{\delta \epsilon}p_{\hat{X}(u)\hat{X}(v)}(t_e)}{p_{\hat{X}(u)\hat{X}(v)}(t_e)}}
+b(\hat{X}) = \sum_{e=(u, v)}{\frac{\frac{\partial}{\partial \epsilon}p_{\hat{X}(u)\hat{X}(v)}(t_e)}{p_{\hat{X}(u)\hat{X}(v)}(t_e)}}
+$$
+
+Where the second sum runs over each edge $$ e=(u,v) $$ connecting ancestral node
+$$ u $$ with descendant node $$ v $$. We can gain insight into the behavior of the
+likelihood function by studying $$ b(\hat{X}) $$, which can be written as,
+
+$$
+b(\hat{X}) = \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=1}{\frac{1}{(1 + \epsilon)\epsilon}} - \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=0}{\frac{1}{1 + \epsilon}} + \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=1}{\frac{1 - e^{-\tau t_e}}{(1 + \epsilon)(\epsilon + e^{-\tau t_e})}} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=0}{\frac{1 - e^{-\tau t_e}}{(1 + \epsilon)(1 + \epsilon e^{-\tau t_e})}}
 $$
 
