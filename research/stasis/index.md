@@ -97,7 +97,7 @@ just the value of $$ \epsilon $$ that solves $$ b(\hat X)=0 $$. The behavior of
 these individual configuration ML estimates can be studied graphically as follows.
 Let $$ f_{10} = \frac{n{10}}{n{01} + n{10}} $$ be the fraction of all state
 changes from ancestor to descendant that represent reversals to state 0, and let
-$$ \psi = \frac{1}{n{01} + n{10}}(\sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=1}{\tau t_e} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=0}{\tau t_e}),
+$$ \psi = \frac{1}{n{01} + n{10}}(\sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=1}{\tau t_e} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=0}{\tau t_e}) $$,
 which represents the between state difference in lineage length displaying stasis
 scaled by the number of net changes from ancestor to descendant. Positive values
 correspond to an excess of stasis in state 1 and negative values correspond to an
