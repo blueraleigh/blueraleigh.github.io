@@ -3,11 +3,30 @@ layout: default
 title: Michael C. Grundler
 style: main
 ---
+
 ## Macroevolution of discrete traits with rate heterogeneity
 
 ## Parsimony and likelihood
 
 ## The role of stasis in determining transition rate asymmetry
+
+A lot of macroevolution studies today rely in some way on estimating and
+interpreting the parameters of a stochastic process model. Unfortunately, it is
+not always straightforward to know what features of the data inform these
+parameter estimates, and this seems to be an under-studied area. I became
+iterested in this question while thinking about transition rates in continuous-time
+Markov chain (CTMC) models of character evolution.
+Transition rates estimated for these models are commonly interpreted as providing
+a historical description of the pattern of change from ancestor to descendant.
+In other words, if we estimate a higher transition rate from state A to state B
+than the reverse this must be because more change from an ancestral state of A
+to a derived state of B is needed to explain the data.
+My work in this area suggests otherwise. Instead, especially in large phylogenies,
+significant asymmetries in transition rates are most likely driven by asymmetries
+in character state stasis rather than asymmetries in character state change.
+In other words, even if nearly all change is from A to B the transition rate
+from B to A can be much higher than the reverse rate if most of the tree is in
+state B. Read more [here](https://blueraleigh.github.io/research).
 
 ## Macroevolutionary models for complex ecological traits
 
@@ -42,4 +61,5 @@ previously published observations, but I also use museum specimens to generate
 new primary observations (e.g., [see here](https://quod.lib.umich.edu/r/rept3ic)).
 To checkout the database for use in your own research go [here](https://github.com/blueraleigh/squamatabase)
 and download the R package I made for it. There is also a [preprint](https://blueraleigh.github.io/research)
-describing the project and some of the motivation.
+describing the project and some of the motivation. Stay tuned for papers describing some cool
+empirical results!
