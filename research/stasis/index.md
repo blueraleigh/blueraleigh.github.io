@@ -3,6 +3,8 @@ layout: default
 title: Michael C. Grundler
 style: main
 ---
+{% include lib/mathjax.html %}
+
 ## The role of stasis in determining transition rate asymmetry
 
 Abstract
@@ -27,4 +29,6 @@ Results
 For a two-state continuous-time Markov chain of discrete character evolution the
 lineage transition probabilities are,
 
-$$ p_{01}(t) = \frac{\epsilon}{1 + \epsilon} - \frac{\epsilon}{1 + \epsilon}e^{-\tau t}$$
+$$
+p_{01}(t) = \frac{\epsilon}{1 + \epsilon} - \frac{\epsilon}{1 + \epsilon}e^{-\tau t}
+$$
