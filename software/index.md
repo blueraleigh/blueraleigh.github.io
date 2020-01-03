@@ -5,8 +5,8 @@ style: main
 ---
 ## macroevolution
 
-An R package that provides functionality for useful macroevolutionary tools that are missing from commonly used R packages 
-(e.g. ape) as well as implementations of methods developed for my own research. Most functionality is written in C and called
+An R package that provides functionality for useful macroevolutionary tools that are missing from commonly used R packages
+(e.g., ape) as well as implementations of methods developed for my own research. Most functionality is written in C and called
 from R using the ```.Call``` API. [Github](https://github.com/blueraleigh/macroevolution)
 
 ## rsqlite

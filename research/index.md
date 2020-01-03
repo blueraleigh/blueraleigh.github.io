@@ -6,15 +6,43 @@ style: main
 
 ## Macroevolution of discrete traits with rate heterogeneity
 
+The ability to accommodate among-linage phenotypic rate variation
+adds an important element of realism to stochastic models of trait evolution. In this
+work I modified the [BAMM](http://bamm-project.org) code base to work with a
+binary state character.
+Interestingly, this model for among-lineage rate variation fails when transition
+rates are not constrained to be identical. The intuition for this failure is that
+each rate-shift event can allow one rate to become arbitrarily large and the
+other arbitrarily small, thereby guaranteeing the origin and persistence of a derived
+character state. The rate-shift mechanism itself introduces another way to observe
+an event of character state change!
+Read more [here](https://blueraleigh.github.io/research).
+
 ## Parsimony and likelihood
+
+Transition rates in continuous-time Markov chain (CTMC) models of character
+evolution are usually estimated by marginalizing over all histories of character
+evolution that could possibly explain the data. An advantage of this approach is
+that the resulting parameter estimates are not conditional on any particular
+(uncertain) history of change. A disadvantage of this approach is that the resulting parameter
+are not necessarily close to the truth. After all, history only happened once
+and the average of all outcomes could be quite far from the single historical
+outcome that actually occurred. In this work I explored a different approach to
+estimating transition rates of CTMC models by conditioning the estimates on
+most-parsimonious histories of character state change. These alternative
+estimators have lower mean squared errors than the marginal likelihood estimators
+used in common practice. Due to the rapidity with which they can be computed,
+the parsimony-informed estimators can also be used to quickly explore datasets
+for phylogenetic variation in tempo and mode. Read more [here](https://blueraleigh.github.io/research).
+
 
 ## The role of stasis in determining transition rate asymmetry
 
 A lot of macroevolution studies today rely in some way on estimating and
 interpreting the parameters of a stochastic process model. Unfortunately, it is
 not always straightforward to know what features of the data inform these
-parameter estimates, and this seems to be an under-studied area. I became
-iterested in this question while thinking about transition rates in continuous-time
+parameter estimates, and this seems to be an important but under-studied area. I became
+interested in this question while thinking about transition rates in continuous-time
 Markov chain (CTMC) models of character evolution.
 Transition rates estimated for these models are commonly interpreted as providing
 a historical description of the pattern of change from ancestor to descendant.
