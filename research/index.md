@@ -16,7 +16,11 @@ each rate-shift event can allow one rate to become arbitrarily large and the
 other to become arbitrarily small, thereby guaranteeing the origin and persistence of a derived
 character state. The rate-shift mechanism itself introduces another way to observe
 an event of character state change!
-Read more [here](https://blueraleigh.github.io/research).
+Read more [here](https://blueraleigh.github.io/research). I have since explored
+alternatives methods for accommodating among-lineage rate variation used in
+phylogenetic inference that are also amenable to phenotypic evolution, and I
+provide C implementations of the random-local clock model and the covarion model
+in my macroevolution R package available [here](https://github.com/blueraleigh/macroevolution).
 
 ## Parsimony and likelihood
 
