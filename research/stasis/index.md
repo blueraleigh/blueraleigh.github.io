@@ -95,9 +95,9 @@ high likelihood configurations influence the ML estimate more than low likelihoo
 configurations. The ML estimate of $$ \epsilon $$ for each individual history is
 just the value of $$ \epsilon $$ that solves $$ b(\hat X)=0 $$. The behavior of
 these individual configuration ML estimates can be studied graphically as follows.
-Let $$ f_{10} = \frac{n{10}}{n{01} + n{10}} $$ be the fraction of all state
+Let $$ f_{10} = \frac{n_{10}}{n_{01} + n_{10}} $$ be the fraction of all state
 changes from ancestor to descendant that represent reversals to state 0, and let
-$$ \psi = \frac{1}{n{01} + n{10}}(\sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=1}{\tau t_e} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=0}{\tau t_e}) $$,
+$$ \psi = \frac{1}{n_{01} + n_{10}}(\sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=1}{\tau t_e} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=0}{\tau t_e}) $$,
 which represents the between state difference in lineage length displaying stasis
 scaled by the number of net changes from ancestor to descendant. Positive values
 correspond to an excess of stasis in state 1 and negative values correspond to an
@@ -110,7 +110,11 @@ $$
 
 Approximate ML estimates of $$ \epsilon $$ occur where the horizontal line $$ f_{10} $$
 intersects the curve $$ \frac{1}{1 + \epsilon} + \frac{\epsilon}{(1 + \epsilon)^2} \psi $$.
-Examples of these solution curves are shown in Figure 1. The overall picture that
+Examples of these solution curves are shown in Figure 1.
+
+![fig1](fig1.png)
+
+The overall picture that
 emerges is that the pattern of stasis can dramatically impact the ML estimate of
 the ratio of transition rates. For example, even if 100 percent of state changes
 between ancestor and descendant represent gains of state 1, the transition rate
