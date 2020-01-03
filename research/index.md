@@ -58,7 +58,7 @@ significant asymmetries in transition rates are most likely driven by asymmetrie
 in character state stasis rather than asymmetries in character state change.
 In other words, even if nearly all change is from A to B the transition rate
 from B to A can be much higher than the reverse rate if most of the tree is in
-state B. Read more [here](https://blueraleigh.github.io/research).
+state B. Read more [here](stasis).
 
 ## Macroevolutionary models for complex ecological traits
 
