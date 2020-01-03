@@ -127,5 +127,5 @@ C, C++, R, Python, TCL, SQL
 
 Service
 -------
-Reviewer for: _Evolution_ (3), _Biological Journal of the Linnean Society_ (1), _Axios Review_ (1), _South American Journal of Herpetology_ (3), _PeerJ_ (2)
+Reviewer for: _Evolution_ (3), _Biological Journal of the Linnean Society_ (1), _Axios Review_ (1), _South American Journal of Herpetology_ (3), _PeerJ_ (2), _Herpetology Notes_ (2)
 
