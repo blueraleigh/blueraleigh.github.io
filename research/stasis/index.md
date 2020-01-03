@@ -70,14 +70,14 @@ $$ u $$ with descendant node $$ v $$. We can gain insight into the behavior of t
 likelihood function by studying $$ b(\hat{X}) $$, which can be written as,
 
 $$
-b(\hat{X}) = \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=1}{\frac{1}{(1 + \epsilon)\epsilon}} - \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=0}{\frac{1}{1 + \epsilon}} + \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=1}{\frac{1 - e^{-\tau t_e}}{(1 + \epsilon)(\epsilon + e^{-\tau t_e})}} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=0}{\frac{1 - e^{-\tau t_e}}{(1 + \epsilon)(1 + \epsilon e^{-\tau t_e})}}
+b(\hat{X}) = \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(v)=1}{\frac{1}{(1 + \epsilon)\epsilon}} - \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(v)=0}{\frac{1}{1 + \epsilon}} + \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(v)=1}{\frac{1 - e^{-\tau t_e}}{(1 + \epsilon)(\epsilon + e^{-\tau t_e})}} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(v)=0}{\frac{1 - e^{-\tau t_e}}{(1 + \epsilon)(1 + \epsilon e^{-\tau t_e})}}
 $$
 
 To a first order approximation, which will be reasonably accurate whenever the
 rate of character evolution $$ \tau $$ is low, this can be represented as,
 
 $$
-b(\hat{X}) = \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=1}{\frac{1}{(1 + \epsilon)\epsilon}} - \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=0}{\frac{1}{1 + \epsilon}} + \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=1}{\frac{\tau t_e}{(1 + \epsilon)^2}} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=0}{\frac{\tau t_e}{(1 + \epsilon)^2}}
+b(\hat{X}) = \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(v)=1}{\frac{1}{(1 + \epsilon)\epsilon}} - \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(v)=0}{\frac{1}{1 + \epsilon}} + \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(v)=1}{\frac{\tau t_e}{(1 + \epsilon)^2}} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(v)=0}{\frac{\tau t_e}{(1 + \epsilon)^2}}
 $$
 
 Recalling that $$ \epsilon = \frac{q_{01}}{q_{10}} $$, the above tells us that the
@@ -97,7 +97,7 @@ just the value of $$ \epsilon $$ that solves $$ b(\hat X)=0 $$. The behavior of
 these individual configuration ML estimates can be studied graphically as follows.
 Let $$ f_{10} = \frac{n_{10}}{n_{01} + n_{10}} $$ be the fraction of all state
 changes from ancestor to descendant that represent reversals to state 0, and let
-$$ \psi = \frac{1}{n_{01} + n_{10}}(\sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=1}{\tau t_e} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=0}{\tau t_e}) $$,
+$$ \psi = \frac{1}{n_{01} + n_{10}}(\sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(v)=1}{\tau t_e} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(v)=0}{\tau t_e}) $$,
 which represents the between state difference in lineage length displaying stasis
 scaled by the number of net changes from ancestor to descendant. Positive values
 correspond to an excess of stasis in state 1 and negative values correspond to an
