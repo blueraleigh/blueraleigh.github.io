@@ -46,4 +46,4 @@ p_{11}(t) = \frac{\epsilon}{1 + \epsilon} - \frac{1}{1 + \epsilon}e^{-\tau t}
 $$
 
 where $$ \tau = q_{01} + q_{10}$$, $$ \epsilon = \frac{q_{01}}{q_{10}} $$, and
-$ q_{01} $ and $ q_{10} $ are the forward and reverse transition rates.
+$$ q_{01} $$ and $$ q_{10} $$ are the forward and reverse transition rates.
