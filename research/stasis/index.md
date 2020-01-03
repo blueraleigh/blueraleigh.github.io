@@ -121,3 +121,16 @@ between ancestor and descendant represent gains of state 1, the transition rate
 from state 1 to state 0 can be higher, sometimes much higher, than the transition
 rate from state 0 to state 1 if the majority of tree length is in state 0.
 
+Supplementary Material
+----------------------
+Here I verify that the approximation is reliable using the squamate reproductive
+mode dataset from Pyron & Burbrink (2014). To do so I sampled 100 maximum
+parsimony histories of character evolution and numerically estimated the ML value
+of $$ \epsilon $$ and $$ \tau $$ using the R function ```optim```. I then
+calculated the predicted ML estimate of $$ \epsilon $$ using the approximation
+method discussed above while holding $$ \tau $$ fixed to the ML estimate obtained
+with ```optim```. The correspondence between the predicted and actual ML estimates
+of $$ \epsilon $$ is quite good:
+
+![fig2](fig2.png)
+
