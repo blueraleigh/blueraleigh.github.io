@@ -50,9 +50,18 @@ $$ q_{01} $$ and $$ q_{10} $$ are the forward and reverse transition rates.
 
 My focus for this study concerns the behavior of the maximum likelihood estimator
 for the parameter $$ \epsilon $$. I use the symbol $$ L_{\hat{X}} $$  to represent
-the likelihood of \hat{X}, which represents an assignment of character states to
+the likelihood of $$ \hat{X} $$, which represents an assignment of character states to
 all nodes in a phylogeny that is consistent with the observed state assignments at
 the terminal nodes. In standard practice, the likelihood $$ L $$ of the observed
 state assignments is computed by summing over all possible $$ \hat{X} $$  so that
 $$ L = \sum_{\hat{X}}{L_{\hat{X}}} $$. Because $$ L_{\hat{X}} $$  is just a product
 of independent lineage transition probabilities we have,
+
+$$
+\frac{\delta L}{\delta \epsilon} = \sum_{\hat{X}}{L_{\hat{X}} b(\hat{X})}
+$$
+
+$$
+b(\hat{X}) = \sum_{e = (u, v)}{\frac{\frac{\delta}{\delta \epsilon}p_{\hat{X}(u)\hat{X}(v)}(t_e)}{p_{\hat{X}(u)\hat{X}(v)}(t_e)}}
+$$
+
