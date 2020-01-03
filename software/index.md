@@ -1,3 +1,8 @@
+---
+layout: default
+title: Michael C. Grundler
+style: main
+---
 ## [macroevolution](https://github.com/blueraleigh/macroevolution)
 
 An R package that provides functionality for useful macroevolutionary tools that are missing from commonly used R packages 
