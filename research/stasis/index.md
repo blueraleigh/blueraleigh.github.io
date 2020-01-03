@@ -110,7 +110,7 @@ $$
 
 Approximate ML estimates of $$ \epsilon $$ occur where the horizontal line $$ f_{10} $$
 intersects the curve $$ \frac{1}{1 + \epsilon} + \frac{\epsilon}{(1 + \epsilon)^2} \psi $$.
-Examples of these solution curves are shown in Figure 1.
+Examples of these solution curves are shown below:
 
 ![fig1](fig1.png)
 
@@ -123,8 +123,8 @@ rate from state 0 to state 1 if the majority of tree length is in state 0.
 
 Supplementary Material
 ----------------------
-Here I verify that the approximation is reliable using the squamate reproductive
-mode dataset from Pyron & Burbrink (2014). To do so I sampled 100 maximum
+Here I verify that the approximation is reliable using the empirical squamate reproductive
+mode dataset from [Pyron & Burbrink (2014)](https://doi.org/10.1111/ele.12168). To do so I sampled 100 maximum
 parsimony histories of character evolution and numerically estimated the ML value
 of $$ \epsilon $$ and $$ \tau $$ using the R function ```optim```. I then
 calculated the predicted ML estimate of $$ \epsilon $$ using the approximation
