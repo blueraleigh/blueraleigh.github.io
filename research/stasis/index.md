@@ -73,3 +73,9 @@ $$
 b(\hat{X}) = \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=1}{\frac{1}{(1 + \epsilon)\epsilon}} - \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=0}{\frac{1}{1 + \epsilon}} + \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=1}{\frac{1 - e^{-\tau t_e}}{(1 + \epsilon)(\epsilon + e^{-\tau t_e})}} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=0}{\frac{1 - e^{-\tau t_e}}{(1 + \epsilon)(1 + \epsilon e^{-\tau t_e})}}
 $$
 
+To a first order approximation, which will be reasonably accurate whenever the
+rate of character evolution $$ \tau $$ is low, this can be represented as,
+
+$$
+b(\hat{X}) = \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=1}{\frac{1}{(1 + \epsilon)\epsilon}} - \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=0}{\frac{1}{1 + \epsilon}} + \sum_{e=(u, v):\\\hat{X}(u)=1\\\hat{X}(u)=1}{\frac{\tau t_e}{(1 + \epsilon)^2}} - \sum_{e=(u, v):\\\hat{X}(u)=0\\\hat{X}(u)=0}{\frac{\tau t_e}{(1 + \epsilon)^2}}
+$$
