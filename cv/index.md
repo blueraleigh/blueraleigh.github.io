@@ -47,10 +47,11 @@ Grant Awards
 
 Preprints
 ---------
-**Grundler M.C.**, Rabosky D.L. 2019. Complex ecological phenotypes on phylogenetic trees: a Markov process model for comparative analysis of multivariate count data. [bioRxiv:640334](https://www.biorxiv.org/content/10.1101/640334v2). In review: _Systematic Biology_
+**Grundler M.C.**, Rabosky D.L. 2019. Complex ecological phenotypes on phylogenetic trees: a Markov process model for comparative analysis of multivariate count data. In review: _Systematic Biology_.
+[bioRxiv:640334](https://www.biorxiv.org/content/10.1101/640334v2).
 
 **Grundler M.C.** 2019. SquamataBase: a natural history database and R package
-for comparative biology of snake feeding habits. In review: _Biodiversity Data Journal_
+for comparative biology of snake feeding habits. In review: _Biodiversity Data Journal_.
 [Preprint](squamatabase.pdf)
 
 Publications
