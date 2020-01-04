@@ -7,14 +7,14 @@ style: vitae
 Michael C. Grundler
 ==================
 
-2020 Biological Sciences Building            
+2020 Biological Sciences Building
 Ann Arbor, MI 48109
 
 mgru@umich.edu
 
 [Github profile](https://github.com/blueraleigh)
 
-[Google Scholar profile](https://scholar.google.com/citations?user=qIUth9QAAAAJ&hl=en)    
+[Google Scholar profile](https://scholar.google.com/citations?user=qIUth9QAAAAJ&hl=en)
 
 Education
 ---------
@@ -33,7 +33,7 @@ Fellowships
 
 Grant Awards
 ------
-- Rackham Graduate Student Research Award, 2017 
+- Rackham Graduate Student Research Award, 2017
 
 - Nancy W. Walls Award for Fieldwork, 2017
 
@@ -47,7 +47,11 @@ Grant Awards
 
 Preprints
 ---------
-**Grundler M.C.**, Rabosky D.L. 2019. Complex ecological phenotypes on phylogenetic trees: a Markov process model for comparative analysis of multivariate count data. [bioRxiv:640334](https://www.biorxiv.org/content/10.1101/640334v2).
+**Grundler M.C.**, Rabosky D.L. 2019. Complex ecological phenotypes on phylogenetic trees: a Markov process model for comparative analysis of multivariate count data. [bioRxiv:640334](https://www.biorxiv.org/content/10.1101/640334v2). In review: _Systematic Biology_
+
+**Grundler M.C.** 2019. SquamataBase: a natural history database and R package
+for comparative biology of snake feeding habits. In review: _Biodiversity Data Journal_
+[Preprint](squamatabase.pdf)
 
 Publications
 ------------
