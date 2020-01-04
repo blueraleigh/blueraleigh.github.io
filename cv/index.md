@@ -45,7 +45,7 @@ Grant Awards
 
 - Rackham Graduate Student Research Grant, 2015
 
-Manuscript in Preparation
+Manuscripts in Preparation
 -------------------------
 **Grundler M.C.**, Rabosky D.L. The role of stasis in determining transition
 rate asymmetry: expectations from a two-state model of discrete character

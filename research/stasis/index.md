@@ -5,7 +5,8 @@ style: main
 ---
 {% include lib/mathjax.html %}
 
-## The role of stasis in determining transition rate asymmetry
+## The role of stasis in determining transition rate asymmetry: expectations from
+a two-state model of discrete character evolution
 
 Abstract
 --------
