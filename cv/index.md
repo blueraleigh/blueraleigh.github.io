@@ -45,12 +45,18 @@ Grant Awards
 
 - Rackham Graduate Student Research Grant, 2015
 
+Manuscript in Preparation
+-------------------------
+**Grundler M.C.**, Rabosky D.L. The role of stasis in determining transition
+rate asymmetry: expectations from a two-state model of discrete character
+evolution. [Read more](/research/stasis)
+
 Preprints
 ---------
-**Grundler M.C.**, Rabosky D.L. 2019. Complex ecological phenotypes on phylogenetic trees: a Markov process model for comparative analysis of multivariate count data. In review: _Systematic Biology_.
+**Grundler M.C.**, Rabosky D.L. Complex ecological phenotypes on phylogenetic trees: a Markov process model for comparative analysis of multivariate count data. In review: _Systematic Biology_.
 [bioRxiv:640334](https://www.biorxiv.org/content/10.1101/640334v2).
 
-**Grundler M.C.** 2019. SquamataBase: a natural history database and R package
+**Grundler M.C.** SquamataBase: a natural history database and R package
 for comparative biology of snake feeding habits. In review: _Biodiversity Data Journal_.
 [Preprint](squamatabase.pdf)
 
