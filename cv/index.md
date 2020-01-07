@@ -60,6 +60,12 @@ Preprints
 for comparative biology of snake feeding habits. In review: _Biodiversity Data Journal_.
 [Preprint](squamatabase.pdf)
 
+**Grundler M.C.**, Rabosky D.L. Macroevolutionary analysis of discrete character
+evolution using parsimony-informed likelihood. [bioRxiv](https://www.biorxiv.org).
+
+**Grundler M.C.**, Rabosky D.L. Macroevolutionary analysis of discrete traits
+with rate heterogeneity. [bioRxiv](https://www.biorxiv.org).
+
 Publications
 ------------
 Rabosky D.L., von May R., **Grundler M.C.**, Davis Rabosky A.R. 2019. The Western Amazonian Richness Gradient for Squamate Reptiles: Are There Really Fewer Snakes and Lizards in Southwestern Amazonian Lowlands? Diversity. 11:199. [HTML](https://doi.org/10.3390/d11100199)
