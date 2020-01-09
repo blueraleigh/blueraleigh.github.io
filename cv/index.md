@@ -20,7 +20,7 @@ Education
 ---------
 2014 - 2020 (expected)
 :  **Ph.D., Ecology and Evolutionary Biology**; University of Michigan
-_Thesis advisor_: Daniel L. Rabosky
+:  _Thesis advisor_: Daniel L. Rabosky
 
 2006 - 2010
 : **B.A., Biological Sciences**; Cornell University
