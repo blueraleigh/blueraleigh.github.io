@@ -54,14 +54,14 @@ evolution. [Read more](/research/stasis)
 Preprints
 ---------
 **Grundler M.C.**, Rabosky D.L. Complex ecological phenotypes on phylogenetic trees: a Markov process model for comparative analysis of multivariate count data. In review: _Systematic Biology_.
-[bioRxiv](https://www.biorxiv.org/content/10.1101/640334v2).
+[bioRxiv:640334](https://www.biorxiv.org/content/10.1101/640334v2).
 
 **Grundler M.C.** SquamataBase: a natural history database and R package
 for comparative biology of snake feeding habits. In review: _Biodiversity Data Journal_.
 [Preprint](squamatabase.pdf)
 
 **Grundler M.C.**, Rabosky D.L. Macroevolutionary analysis of discrete character
-evolution using parsimony-informed likelihood. [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.07.897603v1).
+evolution using parsimony-informed likelihood. [bioRxiv:897603](https://www.biorxiv.org/content/10.1101/2020.01.07.897603v1).
 
 **Grundler M.C.**, Rabosky D.L. Macroevolutionary analysis of discrete traits
 with rate heterogeneity. [bioRxiv](https://www.biorxiv.org).
