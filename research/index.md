@@ -37,7 +37,7 @@ most-parsimonious histories of character state change. These alternative
 estimators have lower mean squared errors than the marginal likelihood estimators
 used in common practice. Due to the rapidity with which they can be computed,
 the parsimony-informed estimators can also be used to quickly explore datasets
-for phylogenetic variation in tempo and mode. Read more [here](https://blueraleigh.github.io/research).
+for phylogenetic variation in tempo and mode. Read more [here](https://www.biorxiv.org/content/10.1101/2020.01.07.897603v1).
 
 
 ## The role of stasis in determining transition rate asymmetry
