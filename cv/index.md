@@ -64,7 +64,7 @@ for comparative biology of snake feeding habits. In review: _Biodiversity Data J
 evolution using parsimony-informed likelihood. [bioRxiv:897603](https://www.biorxiv.org/content/10.1101/2020.01.07.897603v1).
 
 **Grundler M.C.**, Rabosky D.L. Macroevolutionary analysis of discrete traits
-with rate heterogeneity. [bioRxiv](https://www.biorxiv.org).
+with rate heterogeneity. [bioRxiv:897777](https://www.biorxiv.org/content/10.1101/2020.01.07.897777v1).
 
 Publications
 ------------
