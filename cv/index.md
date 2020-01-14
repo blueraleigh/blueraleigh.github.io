@@ -14,7 +14,7 @@ mgru@umich.edu
 
 [Github profile](https://github.com/blueraleigh)
 
-[Google Scholar profile](https://scholar.google.com/citations?user=qIUth9QAAAAJ&hl=en)
+[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=qIUth9QAAAAJ&view_op=list_works&sortby=pubdate)
 
 Education
 ---------
