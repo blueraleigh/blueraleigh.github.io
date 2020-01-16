@@ -127,6 +127,12 @@ Workshop Teaching
 - Comparative Phylogenetic Methods in R. 2019. Joint Meeting of Ichthyologists and Herpetologists. Instructor for module on models of discrete character evolution. [Link to materials](https://github.com/blueraleigh/jmih2019).
 
 
+Museum Experience
+-----------------
+Curatorial Assistant, University of Michigan Museum of Zoology, Division of Amphibians and Reptiles:
+2017, 2019
+
+
 Herpetology Fieldwork
 ---------------------
 - Belize, 2019 (3 weeks)
@@ -147,3 +153,12 @@ Service
 -------
 Reviewer for: _Evolution_ (3), _Biological Journal of the Linnean Society_ (1), _Axios Review_ (1), _South American Journal of Herpetology_ (3), _PeerJ_ (2), _Herpetology Notes_ (2)
 
+References
+----------
+Dan Rabosky, drabosky@umich.edu (PhD adviser)
+
+Stephen Smith, eebsmith@umich.edu (PhD committee member)
+
+Alison Davis-Rabosky, ardr@umich.edu (PhD committee member)
+
+Rudi von May, rudolf.vonmay@csuci.edu (collaborator)
