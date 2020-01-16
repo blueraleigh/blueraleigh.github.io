@@ -7,10 +7,10 @@ style: main
     <p>I am currently a Ph.D. student at the University of Michigan in the lab of Daniel L. Rabosky.</p>
     <div float="left">
         <div>
-            <img src="mcg1.png" height="384" width="512">
+            <img src="mcg1.png">
         </div>
         <div>
-            <img src="mcg2.png" height="384" width="288">
+            <img src="mcg2.png">
         </div>
     </div>
 </div>
