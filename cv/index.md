@@ -54,13 +54,6 @@ evolution. [Read more](/research/stasis)
 
 Preprints
 ---------
-**Grundler M.C.**, Rabosky D.L. Complex ecological phenotypes on phylogenetic trees: a Markov process model for comparative analysis of multivariate count data. In review: _Systematic Biology_.
-[bioRxiv:640334](https://www.biorxiv.org/content/10.1101/640334v2).
-
-**Grundler M.C.** SquamataBase: a natural history database and R package
-for comparative biology of snake feeding habits. In review: _Biodiversity Data Journal_.
-[PDF](squamatabase.pdf)
-
 **Grundler M.C.**, Rabosky D.L. Macroevolutionary analysis of discrete character
 evolution using parsimony-informed likelihood. [bioRxiv:897603](https://www.biorxiv.org/content/10.1101/2020.01.07.897603v1).
 
@@ -69,6 +62,13 @@ with rate heterogeneity. [bioRxiv:897777](https://www.biorxiv.org/content/10.110
 
 Publications
 ------------
+**Grundler M.C.**, Rabosky D.L. Complex ecological phenotypes on phylogenetic trees: a Markov process model for comparative analysis of multivariate count data. Accepted: _Systematic Biology_.
+[bioRxiv:640334](https://www.biorxiv.org/content/10.1101/640334v2).
+
+**Grundler M.C.** 2020. SquamataBase: a natural history database and R package
+for comparative biology of snake feeding habits. Biodiversity Data Journal 8: e49943.
+[HTML](https://doi.org/10.3897/BDJ.8.e49943)
+
 Rabosky D.L., von May R., **Grundler M.C.**, Davis Rabosky A.R. 2019. The Western Amazonian Richness Gradient for Squamate Reptiles: Are There Really Fewer Snakes and Lizards in Southwestern Amazonian Lowlands? Diversity. 11:199. [HTML](https://doi.org/10.3390/d11100199)
 
 Biggi E., Larson J., Rabosky D., von May R., Isabel Diaz M., **Grundler M.**, Sánchez-Paredes C., Tomasinelli F., Santa-Cruz R., Alarcón C. 2019. Ecological interactions between arthropods and small vertebrates in a lowland Amazon rainforest. Amphibian & Reptile Conservation 13(1): 65-77. [PDF](http://amphibian-reptile-conservation.org/pdfs/Volume/Vol_13_no_2/ARC_13_2_[General_Section]_304-322_e215.pdf)
