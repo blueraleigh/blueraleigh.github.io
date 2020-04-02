@@ -87,6 +87,6 @@ in the evolution of snake diets. The majority of observations originate from
 previously published observations, but I also use museum specimens to generate
 new primary observations (e.g., [see here](https://quod.lib.umich.edu/r/rept3ic)).
 To checkout the database for use in your own research go [here](https://github.com/blueraleigh/squamatabase)
-and download the R package I made for it. There is also a [preprint](/cv/squamatabase.pdf)
+and download the R package I made for it. There is also a [manuscript](https://doi.org/10.3897/BDJ.8.e49943)
 describing the project and some of the motivation. Stay tuned for papers describing some cool
 empirical results!
